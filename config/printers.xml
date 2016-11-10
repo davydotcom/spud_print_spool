@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : printers.xml
+    Created on : May 6, 2012, 1:17 PM
+    Author     : David Estes
+    Description:
+        Purpose of the document follows.
+-->
+
+<printers>
+<host>http://wiseinventory.redwindsw.com/</host>
+<printer name="ZDesigner ZM400 200 dpi (ZPL)" key="4b5ae2f3251a66a6ecc7414fdf2411d054f2437f"/>
+<printer name="ZDesigner ZM400 200 dpi (ZPL)" key="39604e3e01e1b763e9547b45b5d456400739374b"/>
+
+</printers>
